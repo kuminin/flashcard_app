@@ -1,0 +1,24 @@
+{
+  "name": "flashcard_app",
+  "version": "1.0.0",
+  "description": "FlashCard Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuminin/flashcard_app.git"
+  },
+  "author": "Kumin In",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuminin/flashcard_app/issues"
+  },
+  "homepage": "https://github.com/kuminin/flashcard_app#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.9"
+  }
+}
